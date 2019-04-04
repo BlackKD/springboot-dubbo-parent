@@ -26,3 +26,9 @@
 
 ### VS Code ###
 .vscode/
+
+### log ###
+*.log
+
+### svn ###
+.svn
